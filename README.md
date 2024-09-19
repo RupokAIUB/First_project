@@ -135,7 +135,7 @@ Build and Run the Application:
 Open the project in Visual Studio, build it, and run the application.
 How to Run the Project
 Clone the Repository: Clone this repository to your local machine.
-git clone https://github.com/maharin-afroj/student-information
+git clone (https://github.com/RupokAIUB/First_project.git)
 Set Up the Database: Configure your SQL Server or SQLite database and update the connection according to the script.sql file.
 Build the Project: Open the project in Visual Studio and build the solution.
 Run the Application: Once built, run the application and manage records through the Windows Forms interface.
